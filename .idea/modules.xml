@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Appium/.idea/Appium.iml" filepath="$PROJECT_DIR$/../Appium/.idea/Appium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LXF-Python/.idea/LXF-Python.iml" filepath="$PROJECT_DIR$/../LXF-Python/.idea/LXF-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PaChong/.idea/PaChong.iml" filepath="$PROJECT_DIR$/../PaChong/.idea/PaChong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Study.iml" filepath="$PROJECT_DIR$/.idea/Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../show-me-the-code/.idea/show-me-the-code.iml" filepath="$PROJECT_DIR$/../show-me-the-code/.idea/show-me-the-code.iml" />
+    </modules>
+  </component>
+</project>
